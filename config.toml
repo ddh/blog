@@ -1,0 +1,14 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "(ddh) Arthur Huynh"
+theme = "github-style"
+
+[params]
+  author = "Arthur Huynh"
+  description = "this is a description."
+  github = "this is github"
+  twitter = "this is twitter"
+  email = "duyhuynh@pm.me"
+  utterances = "example/example.github.io"
+  avatar = "https://avatars1.githubusercontent.com/u/9056483"
+  url = "https://example.com"
